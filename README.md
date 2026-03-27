@@ -2,7 +2,7 @@
 
 A real-time Audio Spectrum Analyzer plugin (VST3/Standalone) built with C++ and JUCE. Features a smooth Bézier-interpolated FFT curve, analog-style VU meters, and a stereo panning indicator. Designed for high performance and accurate visual feedback.
 
-<img width="1347" height="786" alt="image" src="https://github.com/user-attachments/assets/1f344910-9e2c-4a3d-ac95-acc4c945d5cb" />
+<img width="1362" height="794" alt="image" src="https://github.com/user-attachments/assets/e85107b6-0c28-40ae-a432-b6381c66dbbf" />
 
 ## ✨ Key Features
 
