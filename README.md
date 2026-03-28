@@ -9,7 +9,6 @@ A real-time Audio Spectrum Analyzer plugin (VST3/Standalone) built with C++ and 
 * 📈 **Smooth FFT Spectrum:** Real-time frequency analysis utilizing Bézier curve interpolation and moving average smoothing for an organic, jitter-free visual experience.
 * 🎚️ **Analog-Style VU Meters:** Stereo level metering in a logarithmic scale (dBFS). Features visual inertia (smooth falloff ballistics) and dynamic color coding.
 * ⚖️ **Stereo Panning Indicator:** Real-time visual indicator to monitor your L/R stereo balance and signal width.
-* ⚡ **High Performance:** Optimized 60 FPS rendering designed to have a minimal CPU footprint and accurate visual feedback.
 * 🔌 **Supported Formats:** VST3 and Standalone desktop application.
 
 ## 🛠️ Tech Stack
