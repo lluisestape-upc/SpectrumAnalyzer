@@ -1,41 +1,49 @@
-# Prerequisites
-*.d
+# =========================
+# JUCE
+# =========================
+# Ignoramos la carpeta de compilación porque Projucer la genera automáticamente 
+# y contiene todos los binarios pesados e intermedios.
+Builds/
+JuceLibraryCode/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# =========================
+# Visual Studio / Windows
+# =========================
+.vs/
+*.user
+*.suo
+*.sdf
+*.db
+*.opendb
+*.VC.db
+*.sln.docstates
 
-# Precompiled Headers
-*.gch
-*.pch
+# =========================
+# macOS / Xcode (Por si colaboras con alguien en Mac)
+# =========================
+*.xcuserdata/
+xcuserdata/
+*.xcworkspace/
+.DS_Store
 
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# =========================
+# Binarios y Compilados
+# =========================
 *.exe
-*.out
-*.app
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.vst3
+*.component
+*.aaxplugin
 
-# debug information files
-*.dwo
+# =========================
+# Archivos temporales y logs
+# =========================
+*.log
+*.tmp
+*.crash
