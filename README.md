@@ -38,3 +38,12 @@ If you want to clone this repository and compile the plugin yourself, follow the
    * **Windows:** `C:\Program Files\Common Files\VST3`
    * **macOS:** `/Library/Audio/Plug-Ins/VST3`
 3. Open your DAW (Ableton, FL Studio, Logic, etc.), rescan your plugins, and load it onto your Master bus or any track.
+---
+
+## 🔗 Download & more plugins
+
+This plugin is part of the **ESP free plugin collection**.
+Download it and find more free audio plugins at:
+
+👉 **[esp-plugin-store.vercel.app](https://esp-plugin-store.vercel.app)**
+
