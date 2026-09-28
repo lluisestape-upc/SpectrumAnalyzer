@@ -47,3 +47,8 @@ This plugin is part of the **ESP free plugin collection**.
 Download it and find more free audio plugins at:
 
 [esp-plugin-store.vercel.app](https://esp-plugin-store.vercel.app)
+
+## License
+
+GPL v3 -- see [LICENSE](LICENSE). This plugin links the JUCE modules, which are
+licensed under AGPLv3, and the VST3 SDK under its GPLv3 option.
